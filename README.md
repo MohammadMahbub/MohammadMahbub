@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Javascript Advanced | React-Native**
 
-- 🤝 I’m looking for help with **Frontend Development Sector**
+- 🤝 I’m looking for help with **Front end Development Sector**
 
 - 💬 Ask me about **Html | CSS | JavaScript | React | Node**
 
